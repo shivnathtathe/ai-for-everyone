@@ -1,1 +1,1 @@
-![Visitor Count](https://countapi.xyz/hit/shivnathtathe/ai-for-everyone/badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivnathtathe.ai-for-everyone)
