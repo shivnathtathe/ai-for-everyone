@@ -24,5 +24,4 @@ To build models that can **make predictions or decisions** based on **past data 
   if age > 60:
       return "Senior"
 - Machine Learning Program:
-
-You feed labeled examples (age → category), and the system learns the pattern.
+  You feed labeled examples (age → category), and the system learns the pattern.
