@@ -19,7 +19,7 @@ These tasks include:
 ## 💡 AI is the New Electricity
 
 > _“AI is the new electricity.”_  
-> — **Andrew Ng**, Co-founder of Google Brain and Coursera Founder of [DeepLearning.AI](https://deeplearning.ai/)
+> — **Andrew Ng**, Co-founder of Google Brain and Coursera Founder of ![DeepLearning.AI](https://deeplearning.ai/)
 
 Just like electricity transformed every industry 100 years ago, **AI is poised to do the same across every sector** — from healthcare and finance to transportation and education.
 

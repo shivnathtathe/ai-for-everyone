@@ -6,5 +6,5 @@ This repository is a clean, structured guide to all foundational and advanced co
 
 # Machine Learning
 
-- [What is AI](ML/what_is_ai.md)
+- [What is AI?](ML/what_is_ai.md)
 - []
