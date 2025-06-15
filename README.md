@@ -7,3 +7,7 @@ This repository is a clean, structured guide to all foundational and advanced co
 # Machine Learning
 
 - [What is Machine Learning?](ML/what_is_ml.md)
+
+# Deep Learning
+
+# Artificial Intelligence
