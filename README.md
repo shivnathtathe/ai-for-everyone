@@ -1,1 +1,5 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shivnathtathe.ai-for-everyone)
+
+# 🤖 AI For Everyone
+
+This repository is a clean, structured guide to all foundational and advanced concepts in **AI**, **Machine Learning**, and **Deep Learning** — built for learners, engineers, and enthusiasts.
