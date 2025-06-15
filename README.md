@@ -3,3 +3,8 @@
 # 🤖 AI For Everyone
 
 This repository is a clean, structured guide to all foundational and advanced concepts in **AI**, **Machine Learning**, and **Deep Learning** — built for learners, engineers, and enthusiasts.
+
+# Machine Learning
+
+- [What is AI](ML/what_is_ai.md)
+- []
